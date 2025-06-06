@@ -1,6 +1,6 @@
 # Task Management Web Application
 
-This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00012345.
+This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 00012122.
 
 ## Backend
 An ASP.NET Core Web API using Entity Framework Core (code-first) with Repository and DTO design patterns.
