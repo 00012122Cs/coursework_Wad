@@ -10,7 +10,7 @@ Angular SPA for managing tasks via CRUD operations.
 
 ## Setup Instructions
 1. Ensure .NET 7 SDK and Node.js 18+ are installed.
-2. Navigate to `backend/TaskManagementApi` and run `dotnet run` to start the API.
+2. Navigate to `backend/TaskManagementApi` and run `dotnet run --project TaskManagementApi.csproj` to start the API.
 3. Navigate to `frontend/task-manager` and run `npm install` then `ng serve` to run the Angular app.
 
 ## Technologies Used
